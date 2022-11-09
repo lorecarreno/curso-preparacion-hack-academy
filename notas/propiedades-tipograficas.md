@@ -49,9 +49,9 @@ Esto hace que rem sea más "controlable" que em ya que todos los tamaños depend
 ----------------------------------------------------------------
  - La propiedad *Line-height* establece la altura del interlineado.
 
- - Comunmente se usa para establecer la distancia entre lineas de texto.
+Comunmente se usa para establecer la distancia entre lineas de texto.
 
- - El valor se puede expresar en *px* o en *em*.
+El valor se puede expresar en *px* o en *em*.
 
  > ``selector {`` <br>
  > ``   line-height: 16px;`` <br>
@@ -62,7 +62,7 @@ Esto hace que rem sea más "controlable" que em ya que todos los tamaños depend
 ----------------------------------------------------------------
 - La propiedad *font-weight* especifica el peso o grosor de la letra.
 
-- Algunos tipos de letra sólo estan disponibles *normal* o *bold*.
+Algunos tipos de letra sólo estan disponibles *normal* o *bold*.
 
 > ``selector {`` <br>
 > ``    font-weight: bold;`` <br>
@@ -82,7 +82,8 @@ normal y italic.
 **Alineación**
 ----------------------------------------------------------------
 
-la propiedad *align* especifica la alineación horizontal del texto en un elemento.
+- La propiedad *align* especifica la alineación horizontal del texto en un elemento.
+
 Entre sus valores encontramos: *left*, *center*, *right* y *justify*.
 
 > ``selector {`` <br>
