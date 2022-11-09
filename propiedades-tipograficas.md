@@ -13,8 +13,8 @@ propiedad *font family*
 
 *font-size* (usando px)
 
-- La unidad de px permite establecer el tamano del tecto en pixeles.
+- La unidad de px permite establecer el tamaño del tecto en píxeles.
 
-- Al usarla el tamano del texto queda fijo (independientemente del tamano de los demas textos de la pagina o del tamano por defecto del browser).
+- Al usarla el tamano del texto queda fijo (independientemente del tamaño de los demas textos de la página o del tamano por defecto del browser).
 
--Es la unidad mas facil de usar pero no siempre la mas recomendada.
+- Es la unidad mas fácil de usar pero no siempre la mas recomendada.
