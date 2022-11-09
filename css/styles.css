@@ -1,11 +1,27 @@
+html{
+    font-size: 10px;
+}
+
 body {
     background-color: rgb(255, 255, 255);
     color: black;
     font-family: Tahoma;
 }
 
+h2 {
+    font-weight: normal;
+    font-size: 3rem;
+}
+
 P {
     color: orange;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
 }
 
 .special-p {

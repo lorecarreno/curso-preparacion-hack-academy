@@ -90,3 +90,15 @@ Entre sus valores encontramos: *left*, *center*, *right* y *justify*.
 > ``    text-align: center;`` <br>
 > ``}`` <br>
 
+----------------------------------------------------------------
+**Decoración**
+----------------------------------------------------------------
+- La propiedad *text-decoration* se usa para establecer el formato de tecto a subrayado (underline),
+tachado (line-through),o normal (none).
+
+El subrayado es posicionado bajo el texto, mientras el tachado genera una línea a través de este.
+
+> ``selector {`` <br>
+> ``    text-decoration:underline;`` <br>
+> ``}`` <br>
+
