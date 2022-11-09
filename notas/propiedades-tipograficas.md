@@ -9,8 +9,9 @@ propiedad *font family*
 
 ***Propiedades CSS***
 
+----------------------------------------------------------------
 **Tamaño tipografico**
-
+----------------------------------------------------------------
 *font-size* (usando px)
 
 - La unidad de px permite establecer el tamaño del tecto en píxeles.
@@ -35,4 +36,48 @@ Esta unidad permite establecer el tamaño de un texto de forma relativa al tama�
 
 Esto hace que rem sea más "controlable" que em ya que todos los tamaños dependen directamente del tamaño definido en el root, en lugar del tamaño definido en el elemento en cuestión.
 👉Esta es la *unidad que se recomienda usar* para textos.
+
+----------------------------------------------------------------
+**Internlineado**
+----------------------------------------------------------------
+ - La propiedad *Line-height* establece la altura del interlineado.
+
+ - Comunmente se usa para establecer la distancia entre lineas de texto.
+
+ - El valor se puede expresar en *px* o en *em*.
+
+ > ``selector {`` <br>
+ > ``   line-height: 16px;`` <br>
+ > ``}`` <br>
+
+----------------------------------------------------------------
+**Trazo**
+----------------------------------------------------------------
+- La propiedad *font-weight* especifica el peso o grosor de la letra.
+
+- Algunos tipos de letra sólo estan disponibles *normal* o *bold*.
+
+> ``selector {`` <br>
+> ``    font-weight: bold;`` <br>
+> ``}`` <br>
+
+----------------------------------------------------------------
+**Estilo**
+----------------------------------------------------------------
+La propiedad *font-size* permite definir el aspecto de una familia tipográfica entre sus valores encontramos:
+normal y italic.
+
+> ``selector {`` <br>
+> ``    font-style: italic;`` <br>
+> ``}`` <br>
+
+----------------------------------------------------------------
+**Alineación**
+
+la propiedad *align* especifica la alineación horizontal del texto en un elemento.
+Entre sus valores encontramos: *left*, *center*, *right* y *justify*.
+
+> ``selector {`` <br>
+> ``    text-align: center;`` <br>
+> ``}`` <br>
 
