@@ -73,6 +73,7 @@ normal y italic.
 
 ----------------------------------------------------------------
 **Alineación**
+----------------------------------------------------------------
 
 la propiedad *align* especifica la alineación horizontal del texto en un elemento.
 Entre sus valores encontramos: *left*, *center*, *right* y *justify*.
