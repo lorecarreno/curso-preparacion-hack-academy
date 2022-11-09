@@ -1,5 +1,23 @@
 body {
-    background-color: salmon;
+    background-color: rgb(255, 255, 255);
     color: black;
     font-family: Tahoma;
 }
+
+P {
+    color: orange;
+}
+
+.special-p {
+    color: green;
+    font-style: italic;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.salmon-text {
+    color: salmon;
+}
+
