@@ -34,5 +34,5 @@ En general, 1 em = 100%.
 Esta unidad permite establecer el tamaño de un texto de forma relativa al tamaño del texcto establecido en el root, es decir, en ``<html>``, que en general es de 16px (en la mayoría de los browsers).
 
 Esto hace que rem sea más "controlable" que em ya que todos los tamaños dependen directamente del tamaño definido en el root, en lugar del tamaño definido en el elemento en cuestión.
-👉Esta es la *ubidad que se recomienda usar* para textos.
+👉Esta es la *unidad que se recomienda usar* para textos.
 
