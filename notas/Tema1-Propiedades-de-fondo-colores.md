@@ -38,7 +38,7 @@ Un ejemplo de esto sería:
 > ``}`` <br>
 
 ------------------------------------------------
-**Funcion RGB**
+**Funcion RGB** (1/2)
 
 Si queremos indicar en CSS un color utilizando la función RGB, podemos utilizar la *función rgb()*, escogiendo entre una de las siguientes variaciones:
 
@@ -51,6 +51,26 @@ Si queremos indicar en CSS un color utilizando la función RGB, podemos utilizar
 
 Como se puede ver, en cada uno de los casos anteriores, se deben indicar los valores r, g y b.
 Significan rojo, verde y azul, respectivamente, y hacen referencia a la cantidad de color que poseen estos canales para generar otro color. Para especificarlo se puede hacer de dos formas:
+
 - Como números, desde 0 al 255, siendo el primero más ocuro y el ultimo más claro.
 
 - Como porcentajes, desde 0% al 100%, siendo el primero el más oscuro y el segundo el más claro.
+
+> ``selector {`` <br>
+> ``    background-color: rgb(255, 80, 10);`` <br>
+> ``}`` <br>
+
+------------------------------------------------
+**Formato Hexadecimal** (1/2)
+
+
+El *formato hexadecimal* es el más utilizado para por los desarrolladores web, y viene derivado del formato RGB.
+
+Aunque en principio puede parecer extraño y complicado, sobre todo si no has oido hablar nunca del sistema hexadecimal (sistema en base 16 en lugar del que utilizamos normalmente: base 10), es simplemente el formato *RGB abreviado*.
+
+Cada par de letras simboliza el valor del RGB en el sistema de numeracion *hexadecimal*.
+
+------------------------------------------------
+**Formato Hexadecimal** (1/2)
+
+
