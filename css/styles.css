@@ -1,54 +1,52 @@
-html{
-    font-size: 10px;
+html {
+  font-size: 10px;
 }
 
 body {
-    background-color: rgb(109, 101, 101);
-    color: black;
-    font-family: Tahoma;
+  background-color: rgb(109, 101, 101);
+  color: black;
+  font-family: Tahoma;
 }
 
 h2 {
-    font-weight: normal;
-    font-size: 3rem;
+  font-weight: normal;
+  font-size: 3rem;
 }
 
 P {
-    color: orange;
-    font-size: 1.5rem;
-    line-height: 1.6;
-    text-align: center;
+  color: orange;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  text-align: center;
 }
 
 a {
-    font-weight: bold;
-    color: azure;
+  font-weight: bold;
+  color: azure;
 }
 
 .special-p {
-    color: green;
-    font-style: italic;
+  color: green;
+  font-style: italic;
 }
 
 .italic-text {
-    font-style: italic;
+  font-style: italic;
 }
 
 .salmon-text {
-    color: salmon;
+  color: salmon;
 }
 
 .container {
-    background-color: rgb(171, 226, 43);
-    border: 3px solid rgb(3, 3, 3);
-    padding: 10px;
+  background-color: rgb(171, 226, 43);
+  border: 3px solid rgb(3, 3, 3);
+  padding: 10px;
 }
 
 .column {
-    width: 50%;
-    height: 100px;
-    border: 1px solid red;
-    background-color: #f2f2f2;
-
+  width: 50%;
+  height: 100px;
+  border: 1px solid red;
+  background-color: #f2f2f2;
 }
-
