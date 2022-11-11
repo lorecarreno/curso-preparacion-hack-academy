@@ -14,7 +14,13 @@ Flexbox es muy *poderoso*, pero también es *algo complejo*.
 
 Tiene tantas opciones de configuración, que se podría hacer un sólo de Felxbox. De hecho, hay uno muy bueno y gratuito hecho por Wes Bos:
 
-https://flexbox.io En este curso nos limitaremos a hacer una breve introduccion al tema.
+[https://flexbox.io](https://flexbox.io) En este curso nos limitaremos a hacer una breve introduccion al tema.
 
+Para aprender más: [🐸FlexboxFroggy](https://flexboxfroggy.com/)
+
+----------------------------------------------------------------
+**Flexbox (3/3)**
+
+La idea de Flexbox es: Dado un elemento padre (al cual se lo llamará *flex container*) posicionar sus elementos hijos (a los cuales se los llamará *flex items*).
 
 
