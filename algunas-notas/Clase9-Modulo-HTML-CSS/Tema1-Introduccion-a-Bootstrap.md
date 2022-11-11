@@ -91,3 +91,31 @@ En este ejemplo se puede ver el archivo de Bootstrap instalado en carpeta css de
 - Ingresar a: [https://getbootstrap.com/docs/5.1/getting-started/introduction/#quick-start](https://getbootstrap.com/docs/5.1/getting-started/introduction/#quick-start)
 
 - Copiar la linea de código que dice ``<link>`` y pegarla en el ``<head>`` de la página HTML.
+
+
+----------------------------------------------------------------
+**Bootstrap - Instalación -Método 1 vs Método 2**
+----------------------------------------------------------------
+
+*Metodo 1*: - Alojar archivo CSS de Bootstrap en nuestra carpeta CSS.
+
+- Lleva más tiempo e instalarse (hay que bajar archivos y colocarlos en la carpeta correcta). 😥
+
+- Nuestro sitio no depende de un sitio externo para fuincionar. 😀
+
+- Nuestro sitio no precisa de internet para fuincionar. 😄
+
+
+*Metodo 2*: - Linkear a archivo CSS de Bootstrap en servidor externo (CDN).
+
+- Es más rápido de instalar (no hay que descargar nada, sólo copiar y pegar una línea de código). 😃
+
+- Si el servidor externo se cae, nuestro sitio no se verá bien. 😥
+
+- El sitio precisa de internet para fuincionar 😥
+
+- Suele cargarse más rápido. 😄
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+> En la documentación está el saber.
