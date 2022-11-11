@@ -90,6 +90,8 @@ Para pantallas más chicas, los <div> se verán apilados.
 ----------------------------------------------------------------
 **Bootstrap - Grid System - Responsive breakpoints (10/10)**
 
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/responsive-breackpoints.png?raw=true)
+
 
 
 
