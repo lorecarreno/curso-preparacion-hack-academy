@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------
 **Medidas relativas - Los porcentajes**
-
+*
 Los porcentajes se utilizan habitualmente para establecer el ancho de los elementos.
 
 Su referencuia de ancho es tomada del elemento contenedor.
