@@ -24,3 +24,4 @@ Los elementos ``<input>`` tienen un atributo *type* el cual permite definir el t
 > - radio: Campos de tipo radio, solo se puede elegir una opción.<br>
 > - checkbox: Para campos de selección múltiple.<br>
 
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/formulario.png?raw=true)
