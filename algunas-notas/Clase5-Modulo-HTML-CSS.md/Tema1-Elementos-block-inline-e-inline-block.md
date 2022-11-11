@@ -52,7 +52,7 @@ Cosas importantes a tener en cuenta de los elementos de tipo block e inline:
 
 Se puede anular el tipo de caja predeterminada de los elementos HTML con la propiedad *display*.
 
-Por ejemplo, si se desea hacer que los elementos <em> y <strong> sean elementos en bloque, podríamos implementar una regla de la siguiente manera:
+Por ejemplo, si se desea hacer que los elementos ``<em>`` y ``<strong>`` sean elementos en bloque, podríamos implementar una regla de la siguiente manera:
 
 > ``em, strong{`` <br>
 > ``    display: block;`` <br>
