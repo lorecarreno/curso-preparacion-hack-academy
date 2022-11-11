@@ -53,3 +53,4 @@ Alinear elementos de forma vertical siempre fue algo complicado en CSS, sobre to
 **Flexbox -Justify Content & Align Items**
 ----------------------------------------------------------------
 
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/justify-content&align-items.png?raw=true)
