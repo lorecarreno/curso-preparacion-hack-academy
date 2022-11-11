@@ -23,4 +23,24 @@ Para aprender más: [🐸FlexboxFroggy](https://flexboxfroggy.com/)
 
 La idea de Flexbox es: Dado un elemento padre (al cual se lo llamará *flex container*) posicionar sus elementos hijos (a los cuales se los llamará *flex items*).
 
+![Ejemplo1](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/flexbox-ej-1.png?raw=true)
 
+En este ejemplo, se establece que el *flex container* se comporte como una row, y por lo tanto, los flex items se comportan como columnas. La primera de ancho 1/3 y la segunda 2/3. (1 hace referencia a que la caja sidebar va a tomar un tercio del tamaño total y el flex 2 hace referencia a que la caja va a tomar 2 tercios del tamaño total. Sin embargo se puede implementar un tamaño porcentual widht 50%, widht 40% etc.)
+
+----------------------------------------------------------------
+**Flexbox Flex Direction**
+----------------------------------------------------------------
+
+Por defecto, los flex items se posicionan en fila. Se dice que el eje principal (main axis) es el horizontal. 
+
+Sin embargo, Flexbox permite cambiar el eje principal (hacerlo vertical) y posicionar los flex items en columna, usando la propiedad flex-direction.
+
+----------------------------------------------------------------
+**Flexbox Alineación vertical (1/2)**
+----------------------------------------------------------------
+
+Alinear elementos de forma vertical siempre fue algo complicado en CSS, sobre todo si las alturas varían. Gracias a Flexbox, este problema se resuelve muy fácilmente.
+
+----------------------------------------------------------------
+**Flexbox Alineación vertical (2/2)**
+----------------------------------------------------------------
