@@ -85,7 +85,11 @@ En el ejemplo las dos columnas solo se verán a partir de pantallas medium en ad
 
 Para pantallas más chicas, los <div> se verán apilados.
 
-![]()
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/bootstrap-grid-system-columnas-responsive.png?raw=true)
 
 ----------------------------------------------------------------
-**Bootstrap - Grid System (9/10)**
+**Bootstrap - Grid System - Responsive breakpoints (10/10)**
+
+
+
+
