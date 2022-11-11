@@ -41,6 +41,15 @@ Sin embargo, Flexbox permite cambiar el eje principal (hacerlo vertical) y posic
 
 Alinear elementos de forma vertical siempre fue algo complicado en CSS, sobre todo si las alturas varían. Gracias a Flexbox, este problema se resuelve muy fácilmente.
 
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/alineacion-vertical1-2.png?raw=true)
+
 ----------------------------------------------------------------
 **Flexbox Alineación vertical (2/2)**
 ----------------------------------------------------------------
+
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/alineacion-vertical2-2.png?raw=true)
+
+----------------------------------------------------------------
+**Flexbox -Justify Content & Align Items**
+----------------------------------------------------------------
+
