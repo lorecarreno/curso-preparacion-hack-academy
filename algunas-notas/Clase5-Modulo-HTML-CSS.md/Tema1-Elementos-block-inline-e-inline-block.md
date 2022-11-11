@@ -20,14 +20,14 @@ Con la propiedad *display* se puede trabajar con estos valores:
 Por defecto, todo elemento en HTML tiene un tipo de visualización (display) predeterminado.
 Los dos mas comunes son:
 
-- **Block**: es un elemento que ocupa todo el ancho de su elemento padre (contenedor),
+- *Block*: es un elemento que ocupa todo el ancho de su elemento padre (contenedor),
 generando un salto de línea antes y después de si mismo.
 
-Elementos block mas usados: <h1>, <h2>, <div>, <p>, <ul>, <ol>, <form>.
+Elementos block mas usados: ``<h1>, <h2>, <div>, <p>, <ul>, <ol>, <form>``.
 
-- **Inline**: es un elemento que ocupa sólo el ancho que precisa y no genera saltos de línea.
+- *Inline*: es un elemento que ocupa sólo el ancho que precisa y no genera saltos de línea.
 
-Elementos inline mas usado: <a>, <em>, <strong>, <button>, <span>.
+Elementos inline mas usado: ``<a>, <em>, <strong>, <button>, <span>``.
 
 ----------------------------------------------------------------
 **Elementos de tipo Block vs. Inline** (2/2)
