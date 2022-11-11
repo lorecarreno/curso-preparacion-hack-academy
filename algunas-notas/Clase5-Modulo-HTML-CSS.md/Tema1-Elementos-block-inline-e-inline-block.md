@@ -68,4 +68,4 @@ Con la propiedad *display*, se puede trabajar con estos valores:
 
 - *display:  none; /*Setea al elemento*/
 
-- *display: inline-block; /*Similar a inline, pero puede tener widht y height*/
+- *display: inline-block; /*Similar a inline, pero puede tener widht y height*
