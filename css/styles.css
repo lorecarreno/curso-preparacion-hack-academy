@@ -1,4 +1,4 @@
-html {
+/*html {
   font-size: 10px;
 }
 
@@ -61,3 +61,8 @@ a {
     background-color: rgb(255, 0, 153);
   }
 }*/
+
+body {
+  background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
