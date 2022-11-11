@@ -65,6 +65,20 @@ Otras reglas:
 ----------------------------------------------------------------
 **Bootstrap - Grid System (7/10)**
 
+- Para que las filas no toquen los bordes de la página y para que queden centradas en la misma, es común colocarlas inmediatamente adentro de divs con clase .container (ancho fijo) o .container-fluid (ancho 100%).
+
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/bootstrap-grid-system-containers.png?raw=true)
+
+----------------------------------------------------------------
+**Bootstrap - Grid System (8/10)**
+
+- No siempre se querrá que las columnas se vean tanto en mobile como en desktop. A veces querrá modificar el comportamiento de las mismas según el tamaño de la pantalla. Por ejemplo, 4 columnas en mobile suelen quedar demasiado apretadas y suele ser mejor mostrarlas apiladas (una sobre otra).
+
+![]()
+
+----------------------------------------------------------------
+**Bootstrap - Grid System (9/10)**
 
 
-
+----------------------------------------------------------------
+**Bootstrap - Grid System (9/10)**
