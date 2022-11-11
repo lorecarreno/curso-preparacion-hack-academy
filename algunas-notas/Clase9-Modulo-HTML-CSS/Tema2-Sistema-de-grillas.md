@@ -58,5 +58,13 @@ Otras reglas:
 ----------------------------------------------------------------
 **Bootstrap - Grid System (6/10)**
 
+- Bootstrap nos da un elemento que se llama container, nos permite usar el contenedor para delimitar el tamaño de las columnas.
+
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/bootstrap-container.png?raw=true)
+
+----------------------------------------------------------------
+**Bootstrap - Grid System (7/10)**
+
+
 
 
