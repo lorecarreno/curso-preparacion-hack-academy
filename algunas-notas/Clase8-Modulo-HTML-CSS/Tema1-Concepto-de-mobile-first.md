@@ -35,7 +35,7 @@ De nada servirá tener el mejos sitio web ni aplicar las mejores prácticas de C
     -Optimización de recursos. <br>
 
 ----------------------------------------------------------------
-**Implementación del movile first**
+
 
 
 

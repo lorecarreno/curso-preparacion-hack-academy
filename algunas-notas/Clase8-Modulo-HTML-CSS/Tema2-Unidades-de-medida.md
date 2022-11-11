@@ -13,7 +13,13 @@ Cuando un elemento posee un valor expresado en porcentaje, Y este a su vez se en
 
 El valor de ancho expresado en porcentaje tomará como referencia el tamaño de ancho de su padre.
 
+----------------------------------------------------------------
+**Los porcentajes (2/3)**
 
+
+
+----------------------------------------------------------------
+**Los porcentajes (3/3)**
 
 
 
