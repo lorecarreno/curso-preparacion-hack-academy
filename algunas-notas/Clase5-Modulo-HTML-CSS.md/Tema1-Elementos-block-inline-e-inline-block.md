@@ -38,7 +38,7 @@ Cosas importantes a tener en cuenta de los elementos de tipo block e inline:
 
 - El *ancho de los elementos block* se establece automáticamente en función del ancho de su contenedor padre.
 
-- *La altura* predeterminada de los elementos de bloque se basa en su contenido interno. Pero si la ventana del navegador no es suficientemente ancha, un <h1> (por ejemplo) se divide en dos líneas de texto y su altura se ajusta en consecuencia.
+- *La altura* predeterminada de los elementos de bloque se basa en su contenido interno. Pero si la ventana del navegador no es suficientemente ancha, un ``<h1>`` (por ejemplo) se divide en dos líneas de texto y su altura se ajusta en consecuencia.
 
 - *Los elementos inline* no afectan *el espaciado vertical*.
 
