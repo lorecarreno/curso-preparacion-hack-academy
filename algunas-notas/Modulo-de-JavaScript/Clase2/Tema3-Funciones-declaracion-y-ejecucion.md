@@ -39,4 +39,4 @@ Al elegir nombres para los parámetros de una función:
 
  - No usar: param1, param,2, param3, x, y, z...
 
-![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/Tema-3>-funciones-declaracion-ejecucucion-7.png?raw=true)
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/Tema-3-funciones-declaracion-ejecucucion-7.png?raw=true)
