@@ -39,5 +39,28 @@ Ejemplos:
  ``(precioA === precioC ) && (precioA < precioB); // Retorna true. ;`` <br>
  ``(precioA === precioC) || (precioA === precioB); // Retorna true. ;`` <br>
 
- JavaScript evalúa los operadores de izquierda a derecha y se detniene cuando conoce la respuesta.
+ JavaScript evalúa los operadores de izquierda a derecha y se detiene cuando conoce la respuesta.
 
+-----------------------------------------------------------
+**Operadore lógico &&**
+
+> ``var anioNacimiento = 1989;`` <br>
+>
+> ``if (anioNacimiento >= 1980 && anioNacimiento <= 1996) {
+> ``  console.log(eres milenial);`` <br>
+>``}`` <br>
+
+-----------------------------------------------------------
+**Operadore lógico ||**
+
+> ``var pais = "Ecuador";`` <br>
+> ``if (pais === "EEUU" || pais === "Canada || pais === "Mexico") {`` <br>
+> ``    alert("Tu país está en América del Norte");`` <br>
+> ``} else {`` <br>
+> ``        alert("Tu país No está en América del Norte");`` <br>
+> ``}`` <br>
+
+-----------------------------------------------------------
+**Tabla de Verdad**
+
+![]()
