@@ -18,3 +18,6 @@ Este tipo de operadores, devuelven el resultado de la operación que estamos rea
 > ``var división = 20 / 4;`` <br>
 > ``var modulo = 28 % 7;`` <br>
 
+function sumarCinco (numUno, numDos) {
+    return 5 + numUno + numDos;
+}
