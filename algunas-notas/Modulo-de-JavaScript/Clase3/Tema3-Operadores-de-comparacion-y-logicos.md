@@ -63,4 +63,4 @@ Ejemplos:
 -----------------------------------------------------------
 **Tabla de Verdad**
 
-![]()
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/js-Clase3-tema3-tabla-de-verdad.png?raw=true)
