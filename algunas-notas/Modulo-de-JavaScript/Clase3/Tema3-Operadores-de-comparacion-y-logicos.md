@@ -46,7 +46,7 @@ Ejemplos:
 
 > ``var anioNacimiento = 1989;`` <br>
 >
-> ``if (anioNacimiento >= 1980 && anioNacimiento <= 1996) {
+> ``if (anioNacimiento >= 1980 && anioNacimiento <= 1996) {`` <br>
 > ``  console.log(eres milenial);`` <br>
 >``}`` <br>
 

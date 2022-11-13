@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 <h1> Sentencia IF / ELSE IF / ELSE </h1>
-----------------------------------------------------------------
 
+----------------------------------------------------------------
 **Sentencia else if (1/2)**
 
 > ``if (condicion_A)`` <br>
@@ -14,6 +14,7 @@
 > ``    // y se cumple la condicion B`` <br>
 > ``}`` <br>
 
+----------------------------------------------------------------
 **Sentencia else if (2/2)**
 
 > ``if (hora > 18) {`` <br>
@@ -28,7 +29,7 @@
 <h4> Ejercicios</h4>
 ----------------------------------------------------------------
 
-- 1. Definir una función llamada esPar que reciba como paramertro un numero qualquiera y retorne true si es par. En caso contrario, retorna false.
+- 1. Definir una función llamada esPar que reciba como paramertro un número qualquiera y retorne true si es par. En caso contrario, retorna false.
 
 - 2. Definir una función llamada maximoDeDos que reciba como argumentos dos numeros cualesquiera y retorne el mayor. Si los números son iguales a retornar dicho número.
 Nota: no utilizar la función Math.max(...).
