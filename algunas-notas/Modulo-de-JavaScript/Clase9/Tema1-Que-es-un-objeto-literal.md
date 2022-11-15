@@ -1,16 +1,17 @@
-Eventos, qué son y qué tipos existen?
+<h1>Objetos Literales</h1>
 
--  Es "algo" que sucede mientras un usuario interactúa con una página web.
+Que es un objeto? 
 
-- vEjemplos de eventos:
-    -el jusuario presiona una tecla.
-    -el usuario hace clickcennun boton.
-    -el suuario agrabda o achica una ventana.
-    - una pagona s etermino de cargar.
+Un *objeto* es una *entidad* que contiene una *coleccion de propiedades*. 
 
-- los eventos se detectan con la funcion addEventListener de JavaScript
+Una propiedad es una asociacion de clave-valor.
 
-- Documentación: https://developer.mozilla.org/en-US/docs/Web/Events 
+Las propiedades son similares a las variables comunes de JavaScript, la diferencia es que las propiedades son variables que están unidas a un determinado objeto.
+
+El valor de una propiedad puede ser una función y en ese casi a la propiedad se le llama *método*.
+
+![]()
+
 
 ----------------------------------------------------------------
-**Eventos
+
