@@ -65,7 +65,6 @@ Una vez que el elemento fue seleccionado, se le pueden aplicar transformaciones 
 > ``titulo.style.color = "blue";`` // Cambiarle el color de letra. <br>
 > ``titulo.style.backgroundColor = "red";`` // Cambiarle el color de fondo *nótese el camelCase*. <br>
 
-
 ----------------------------------------------------------------
 **Función querySelector (3/3)**
 
@@ -74,4 +73,38 @@ El archivo HTML:
 <p>
 loremipsum dolor sit amet, consectetur adipisicing elit. Aenean eiusmod tempor incididunt ut commodo consequat ligula eget dolor. Aenenan massa. 
 </p>
+
+El archivo CSS:
+
+> ``.importante {`` <br>
+> ``    color: red;`` <br>
+> ``}`` <br>
+
+El archivo JS:
+
+> ``document.querySelector("p").classList.add("importante");`` 
+
+----------------------------------------------------------------
+**Función querySelectorAll (1/2)**
+
+La función *querySelectorAll* retorna un array (lista) con todos los elementos de la página que matcheen con el selector especificado.
+
+Si no hay ningún elemento en la página que matchee con dicho selector, la función retorna una lista vacía.
+
+Ejemplo:
+
+> ``var parrafos = document.querySelectorAll("p");`` 
+
+----------------------------------------------------------------
+**Función querySelectorAll (2/2)**
+
+Dado que *querySelectorAll* retorna una lista de elementos, es necesario recorrerla para poder aplicarles alguna trnasformación.
+
+Ejemplo:
+
+var subtitulos = document.querySelectorAll("h2");
+
+> ``for (var subtitulo of subtitulos) {`` <br>
+> ``    subtitulo.style.color = "FF6600";`` <br>
+> ``}`` <br>
 
