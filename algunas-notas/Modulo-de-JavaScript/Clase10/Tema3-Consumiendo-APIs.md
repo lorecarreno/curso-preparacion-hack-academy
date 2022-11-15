@@ -49,7 +49,23 @@ La sintáxis de la función *fetch* suele ser complicada de entender para quien 
 
 Explicación de la función *fetch*:
 
-![]()
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/explicacion-funcion-fetch,png.png?raw=true)
+
+1. La función *fetch* recibe como parámetro un string con la URL a donde se desea realizar el llamado HTTP. A modo de simplificación, este código estádiciendo: "Quiero obtener los datos que se encuentran en esta dirección".
+
+2. El primer *then* es una función qye se ejecuta cuando la llamada HTTP haya *finalizado* y se hayan recibido los datos (en este caso datos en formato JSON). La función *json* convierte el JSON recibido (que es un string)
+a un objeto de JavaScript.
+
+3. El segundo *then* se utiliza al final del proceso (si es que el prceso fue exitoso). Aquí se indica qué se debe reaizar con los datos recibidos. Aquí el parámetro *data* es un objeto Javascript y será la información final con la que vamos a trabajar.
+
+4. Opcionalmente, se puede definir una función *catch* que se ejecuta en caso de que haya ocurrido un error en el proceso.
+
+----------------------------------------------------------------
+**Realizar llamadas HTTP (4/4)**
+
+Probar de realizar una llamada HTTP (puede ser desde la consola del navegador) y observar la pestaña network en las Developer Tools.
+
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/network-devtools.png?raw=true)
 
 
 
