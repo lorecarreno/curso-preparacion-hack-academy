@@ -25,7 +25,7 @@ Estructura:
 ----------------------------------------------------------------
 **Formato JSON (3/4)**
 
-![]()
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/formato-JSON.png?raw=true)
 
 ----------------------------------------------------------------
 **Formato JSON (4/4)**
@@ -40,5 +40,10 @@ Estos son servicios que *en lugar de retornar un código HTML retornan código J
 
 Si quieren hacer priebas con datos ficticios en formato JSON, entren aqui:
 http://jsonplaceholder.typicode.com.  Sirve probar y prototipar.
+
+----------------------------------------------------------------
+**Sugerencia: Instalar esta extension en Chrome.**
+
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/instalar-esta-extension.png?raw=true)
 
 
