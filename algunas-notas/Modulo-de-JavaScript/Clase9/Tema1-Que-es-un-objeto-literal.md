@@ -8,7 +8,7 @@ Una propiedad es una asociacion de clave-valor.
 
 Las propiedades son similares a las variables comunes de JavaScript, la diferencia es que las propiedades son variables que están unidas a un determinado objeto.
 
-El valor de una propiedad puede ser una función y en ese casi a la propiedad se le llama *método*.
+El valor de una propiedad puede ser una función y en ese caso a la propiedad se le llama *método*.
 
 ![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/clase9-Tema1-objeto.png?raw=true)
 

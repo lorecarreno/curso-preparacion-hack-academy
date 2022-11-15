@@ -53,9 +53,4 @@ la propiedad *type* insica el tipo de evento producido, lo que es útil cuando u
 > ``var tipo = evento.type;`` 
 
 
-----------------------------------------------------------------
-**event (2/3)**
 
-
-----------------------------------------------------------------
-**event (3/3)**
