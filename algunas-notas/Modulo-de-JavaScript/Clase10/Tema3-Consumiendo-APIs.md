@@ -40,4 +40,26 @@ Sin embargo, su dificultad de uso motivó a que en 2015 se implementase una nuev
 
 Ejemplo de uso de función *fetch*:
 
+![](https://github.com/lorecarreno/curso-preparacion-hack-academy/blob/main/images/consumiendo-API-funcion-fetch.png?raw=true)
+
+La sintáxis de la función *fetch* suele ser complicada de entender para quien está iniciando, dado que está basada en el concepto de *promesas* de JavaScript. A continuación se realizará una explicación básica y lo más sencilla posible, contemplando los concimientos teóricos que disponemos al día de hoy.
+
+----------------------------------------------------------------
+**Realizar llamadas HTTP (3/4)**
+
+Explicación de la función *fetch*:
+
 ![]()
+
+
+
+
+
+
+
+
+
+
+
+
+
